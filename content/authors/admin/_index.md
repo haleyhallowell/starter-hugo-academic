@@ -1,4 +1,6 @@
 ---
+title: Haley Anne Hallowell
+role: Postdoctoral Fellow in the Suez Lab
 avatar_filename: hart3104.jpg
 bio: My research interests include x y and matter.
 interests:
@@ -30,9 +32,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Postdoctoral Fellow
 highlight_name: true
-title: Haley Anne Hallowell
 first_name: Alice
 email: ""
 ---
