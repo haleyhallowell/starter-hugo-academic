@@ -1,7 +1,7 @@
 ---
 title: Haley Anne Hallowell
 role: Postdoctoral Fellow in the Suez Lab
-avatar_filename: hart3104.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include x y and matter.
 interests:
   - Artificial Intelligence
