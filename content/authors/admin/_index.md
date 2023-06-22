@@ -1,5 +1,5 @@
 ---
-avatar_filename: hart3087.jpg
+avatar_filename: hart3104.jpg
 bio: My research interests include x y and matter.
 interests:
   - Artificial Intelligence
