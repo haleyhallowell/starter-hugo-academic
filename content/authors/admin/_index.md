@@ -1,7 +1,6 @@
 ---
 avatar_filename: hart3087.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include x y and matter.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -29,8 +28,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Johns Hopkins University
+    url: https://www.suezlab.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -48,10 +47,9 @@ status:
 last_name: Wu
 role: Postdoctoral Fellow
 highlight_name: true
-title: Haley Hallowell, PhD
+title: Haley Anne Hallowell
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+beepbeppboopbop
 {style="text-align: justify;"}
